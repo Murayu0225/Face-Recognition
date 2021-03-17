@@ -1,0 +1,2 @@
+# Face-Recognition
+OpenCVとPytonを利用した顔認証システムのプログラムコード
