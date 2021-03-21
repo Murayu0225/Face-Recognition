@@ -1,6 +1,6 @@
 ## Face Recognition System (顔認証システムプログラムコード)
 This program code is face recognition system's code.
-This repository is private now. CONFIDENTIAL. DO NOT leak this data.
+
 ## How to use?
 1. Install OpenCV and prepare command pronto.
 2. Clone this repository.
@@ -8,6 +8,10 @@ This repository is private now. CONFIDENTIAL. DO NOT leak this data.
 ```
 Python face.py
 ```
+
+## Tips
+I used Pycharm. And I installed `OpenCV-Python`.
+
 ## 使用方法
 1. OpenCVとコマンドプロントを用意(他にも色々必要だが、めんどくさいので割愛)
 2. クローン
@@ -15,4 +19,7 @@ Python face.py
 ```
 python face.py
 ```
-自動的にカメラが起動する。また、顔認証を自動的に開始する。(はず)
+
+## Tips
+Pycharmを利用した。PyCharmに設定→プロジェクト設定から`OpenCV-python`をインストールすると便利。
+自動的にカメラが起動する。顔認証を自動的に開始する。(はず)
