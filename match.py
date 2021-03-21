@@ -37,4 +37,4 @@ matches = bf.match(img1_face_des, img2_face_des)
 dist = [m.distance for m in matches]
 if len(dist) != 0:
     ret = sum(dist) / len(dist)
-    print("二人の顔の一致度は、" + str(ret) + "です。")
+    print("二人の顔写真の一致度は、" + str(ret) + "です。")
